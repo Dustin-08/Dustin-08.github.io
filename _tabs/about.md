@@ -11,8 +11,12 @@ Dive into Code! Hello I'm Seungwoo (Dustin) Choi! 👋
 💡 Various project experience in PMO & IoT field
 
 Participate in the 2021 & 2023 CanSat Competition
+
 CES 2024 Booth Operation
+
 Participating in the 2025 CanSat Competition as a Mentor
+
+---
 
 🌱 Currently focusing on autonomous driving and ROS, IoT system and embedded development
 
