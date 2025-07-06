@@ -6,13 +6,18 @@ order: 4
 
 # About Me
 
-Dive into Code! Hello I'm Seungwoo (Dustin) Choi! 👋  
+Dive into Code! Hello I'm Seungwoo (Dustin) Choi! 👋 
+
 💡 Various project experience in PMO & IoT field
+
 Participate in the 2021 & 2023 CanSat Competition
 CES 2024 Booth Operation
 Participating in the 2025 CanSat Competition as a Mentor
+
 🌱 Currently focusing on autonomous driving and ROS, IoT system and embedded development
-🏫 Currently attending Ulsan University
+
+🏫 Currently attending University of Ulsan
+
 💬 Inquiries are always welcome!
 
 ---
@@ -55,6 +60,8 @@ Participating in the 2025 CanSat Competition as a Mentor
 ## 📚 경력 및 프로젝트
 
 - **2025 ~ 현재:** [울산대학교]에서 [IT융합학부 IT융합전공] 중
+
+---
 ### 🐾 Pet-I (VisionMesh)
 IoT 기기와 모바일 앱을 이용한 반려동물 건강 모니터링 프로젝트
 
@@ -102,3 +109,4 @@ C++, Arduino, TypeScript, Zigbee
 ---
 
 감사합니다! 🙏
+
