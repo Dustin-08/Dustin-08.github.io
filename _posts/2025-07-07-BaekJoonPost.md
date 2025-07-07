@@ -14,13 +14,13 @@ pin: false
 # 📝 문제
 
 - 백준 10989 수 정렬하기 3
-	- https://www.acmicpc.net/problem/10989
+	- [https://www.acmicpc.net/problem/10989](https://www.acmicpc.net/problem/10989)
 
 ---
 
 ## 🔍 문제 상황
-![[Pasted image 20250707162733.png]]
-![[Pasted image 20250707162818.png]]
+![[assets/img/Baekjoon/Pasted image 20250707162733.png]]
+![[assets/img/Baekjoon/Pasted image 20250707162818.png]]
 
 ---
 
