@@ -28,8 +28,8 @@ url: "https://dustin-08.github.io"
 github:
   username: Dustin-08 # change to your GitHub username
 
-Linkedin:
-  username: Seungwoo (Dustin) Choi # change to your Twitter username
+#linkedin:
+#  username: Seungwoo (Dustin) Choi # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -43,7 +43,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/dustin08
-    - https://www.instagram.com/seung_woo_choi_ 
+    # - https://www.instagram.com/seung_woo_choi_ 
 
 # Site Verification Settings
 webmaster_verifications:
