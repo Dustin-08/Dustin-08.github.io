@@ -19,8 +19,8 @@ pin: false
 ---
 
 ## 🔍 문제 상황
-![[assets/img/Baekjoon/Pasted image 20250707162733.png]]
-![[assets/img/Baekjoon/Pasted image 20250707162818.png]]
+![문제 상황](assets/img/Baekjoon/Pasted image 20250707162733.png)
+![문제 상황2](assets/img/Baekjoon/Pasted image 20250707162818.png)
 
 ---
 
